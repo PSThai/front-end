@@ -1,0 +1,45 @@
+.ant-form-item-explain-error {
+  font-size: 11.5px !important;
+}
+
+.ant-upload-select {
+  display: none !important;
+}
+
+.chat-file-tag > .ant-tag:hover {
+  border-color: #1677ff;
+}
+
+.chat-file-upload-list
+  .ant-upload-list
+  .ant-upload-list-item-container
+  .ant-upload-list-item {
+  padding: 14px 6px;
+  border-radius: 3px;
+}
+
+.toolbar-wrapper {
+  position: fixed;
+  bottom: 32px;
+  left: 50%;
+  padding: 0px 24px;
+  color: #fff;
+  font-size: 20px;
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 100px;
+  transform: translateX(-50%);
+}
+
+.toolbar-wrapper .anticon {
+  padding: 12px;
+  cursor: pointer;
+}
+
+.toolbar-wrapper .anticon[disabled] {
+  cursor: not-allowed;
+  opacity: 0.3;
+}
+
+.toolbar-wrapper .anticon:hover {
+  opacity: 0.3;
+}

@@ -1,0 +1,1 @@
+{"__version__":1,"totalSize":1020,"count":11,"data":{"conversation.enum.ts":[0,71],"friend-state.enum.ts":[0,124],"friends-actions.enum.ts":[0,100],"message-state.enum.ts":[0,105],"message-type.ts":[0,83],"roles.enum.ts":[0,74],"room-role.enum.ts":[0,85],"roommember-role.enum.ts":[0,81],"theme.enum.ts":[0,62],"user":[1,235]}}
